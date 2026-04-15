@@ -56,7 +56,7 @@ Total Spent: Rs. 7500
 Remaining Budget: Rs. 2500
 
 **Screenshot**
-![App Screenshot](C:\Users\mdmoz\OneDrive\Desktop\PROJECTS\PERSONAL_EXPENSE_TRACKER/Screenshot.png)
+![App Screenshot](Screenshot.png)
 
 **Key Learnings**
 - Practical implementation of file handling using CSV
