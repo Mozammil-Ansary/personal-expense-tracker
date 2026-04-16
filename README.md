@@ -26,12 +26,12 @@ The Personal Expense Tracker is a command-line based Python application designed
 - CLI	User interaction
 
 **Project Structure**
-personal-expense-tracker/
+- personal-expense-tracker/
 
-- main.py            # Main application logic
-- expenses.csv       # Stored expense data
-- README.md          # Project documentation
-- requirements.txt   # Dependencies
+ - main.py            # Main application logic
+ - expenses.csv       # Stored expense data
+ - README.md          # Project documentation
+ - requirements.txt   # Dependencies
 
 **How to Run**
 
