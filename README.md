@@ -56,6 +56,7 @@ Total Spent: Rs. 7500
 Remaining Budget: Rs. 2500
 
 **Screenshot**
+
 ![App Screenshot](Screenshot.png)
 
 **Key Learnings**
