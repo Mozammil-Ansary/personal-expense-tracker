@@ -1,4 +1,4 @@
-# personal-expense-tracker
+# Personal-expense-tracker
 Personal Expense Tracker (Python CLI Application)
 
 **Overview**
